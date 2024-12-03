@@ -21,7 +21,7 @@
 | yolov8n_headperson.cvimodel     | CVI_TDL_SUPPORTED_MODEL_HEAD_PERSON_DETECTION | CVI_TDL_HeadPerson_Detection |
 | yolox_m_coco80_cv181x.cvimodel  | CVI_TDL_SUPPORTED_MODEL_YOLOX | CVI_TDL_YoloX |
 | yolox_s_coco80_cv181x.cvimodel     | CVI_TDL_SUPPORTED_MODEL_YOLOX | CVI_TDL_YoloX |
-
+| fqnet-v5_shufflenetv2-softmax.cvimodel | CVI_TDL_SUPPORTED_MODEL_FACEQUALITY | CVI_TDL_FaceQuality |
 
 | 模型名字      | ION/FlASH | 推理耗时（ms） |     模型性能   |
 | :--:        |    :----:   |          :--: |          :--: |
